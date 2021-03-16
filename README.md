@@ -70,5 +70,3 @@ Neste momento queremos saber o quanto você evoluiu nesta prova, pois trabalhar 
  3. Ao final da prova não esqueça de verificar se todos os arquivos estão no repositório.
 
 👊 Boa Prova!# Desafio QA Trello
-# Desafio-QA-Trello
-# Desafio-QA-Trello
