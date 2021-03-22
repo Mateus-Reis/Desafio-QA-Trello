@@ -1,4 +1,4 @@
-# Desafio Analista de Qualidade Before
+# Desafio Analista de Qualidade
 
 Parabéns por ter chegado nesta fase!
 Agora queremos te conhecer melhor, te conhecer tecnicamente. Para isso desenvolvemos essa prova com o intuito de avaliar seu desempenho.
