@@ -24,4 +24,3 @@ Tendo os itens a serem testados a prova possui fases a serem cumpridas, que são
 
 - Cypress
 
-👊 Boa Prova!# Desafio QA Trello
